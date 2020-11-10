@@ -3,6 +3,7 @@
 [![build status](
   http://img.shields.io/travis/michalwidera/equations/master.svg?style=flat)](
  https://travis-ci.org/michalwidera/equations)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichalwidera%2Fequations.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichalwidera%2Fequations?ref=badge_shield)
  
 This is experimental work that creates base for RetractorDB - Time Series Management System.
 Our plan is to create Complex Fractions type set.
@@ -24,3 +25,7 @@ This project contains implementation of some equations published here:
 - S. Beatty. Problem 3173. Amer. Math. Monthly, 33:159, 1926
 - A.S. Fraenkel. The bracket function and complementary sets of integers. Canad. J.Math, 21:6–27, 1969
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichalwidera%2Fequations.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichalwidera%2Fequations?ref=badge_large)
